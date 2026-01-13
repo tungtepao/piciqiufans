@@ -1,0 +1,7 @@
+{
+  "name": "piciqiufans",
+  "assets": {
+    "directory": "./dist",
+    "notFoundStrategy": "404Page"
+  }
+}
