@@ -1,0 +1,1 @@
+export default {"1768395290182":{"entry":"/workspace/piciqiufans/src/index.js","port":18080,"localUpstream":""}}

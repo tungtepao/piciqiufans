@@ -1,0 +1,6 @@
+
+port = 3324
+[debugger_cli_options]
+enable = true
+code_path = "/workspace/piciqiufans/.dev/index-1768395290182.js"
+conf_path = "/root/.ew2/er.conf"

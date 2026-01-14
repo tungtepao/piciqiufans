@@ -1,5 +1,6 @@
 {
-  "name": "piciqiufans",
+  "name": "piciqiufansdemo",
+  "entry": "./src/index.js",
   "assets": {
     "directory": "./dist",
     "notFoundStrategy": "404Page"
